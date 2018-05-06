@@ -1,2 +1,10 @@
 body {
-  color: green; }
+  background-color: indigo;
+}
+h1 {
+  color: #E6E6FA;
+}
+p {
+  color: #EE82EE;
+  font-size: 22px;
+}
